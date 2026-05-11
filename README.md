@@ -1,198 +1,195 @@
 ﻿<div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving\&color=0:0f172a,100:1e3a8a\&height=240\&section=header\&text=Luis%20Elías%20Vargas%20Vergara\&fontSize=42\&fontColor=ffffff\&animation=fadeIn\&fontAlignY=38\&desc=Computational%20Science%20%7C%20Cybersecurity%20%7C%20Full%20Stack%20Developer\&descAlignY=58\&descAlign=50)
+<!-- HEADER BANNER -->
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1a3a6e,100:0f4c81&height=280&section=header&text=Luis%20Elías%20Vargas%20Vergara&fontSize=46&fontColor=e2e8f0&animation=fadeIn&fontAlignY=38&desc=Computational%20Science%20%7C%20Cybersecurity%20%7C%20Full%20Stack%20Developer&descSize=18&descAlignY=58&descAlign=50)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luis%20Vargas-0A66C2?style=for-the-badge\&logo=linkedin)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge\&logo=github)](#)
-[![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Specialist-red?style=for-the-badge\&logo=hackthebox)](#)
-[![AI](https://img.shields.io/badge/Artificial%20Intelligence-AI%20Developer-8b5cf6?style=for-the-badge\&logo=openai)](#)
+<br/>
+
+<!-- BADGES ROW 1 -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-vargas-a43216381)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuchoThno)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisevargasve@gmail.com)
+
+<br/>
+
+<!-- BADGES ROW 2 -->
+![Cybersecurity](https://img.shields.io/badge/🔐_Cybersecurity-Specialist-0f4c81?style=flat-square)
+![AI Dev](https://img.shields.io/badge/🤖_GenAI-Developer-6d28d9?style=flat-square)
+![Full Stack](https://img.shields.io/badge/⚛️_Full_Stack-Engineer-0891b2?style=flat-square)
+![Cloud](https://img.shields.io/badge/☁️_Cloud-AWS_%7C_Docker-f59e0b?style=flat-square)
 
 </div>
 
 ---
 
-# 🚀 Sobre Mí
+## 🧠 Perfil Profesional
 
-Soy estudiante de **Ingeniería en Computational Science** en la **Universidad Gabriela Mistral**, especializado en:
+Soy **Ingeniero en Computational Science** (Universidad Gabriela Mistral, promoción 2026) con una trayectoria única que combina **20 años de experiencia en la Marina de Chile** con formación técnica de vanguardia en ciberseguridad, desarrollo de software e inteligencia artificial generativa.
 
-* 🔐 Ciberseguridad y Seguridad de la Información
-* ☁️ Cloud Computing y DevOps
-* ⚛️ Desarrollo Frontend y Backend
-* 🤖 Inteligencia Artificial Generativa
-* 📊 Data Analytics & Power BI
-* 🎨 Diseño UX/UI
+Mi valor diferenciador: un perfil **técnico-estratégico** capaz de diseñar arquitecturas seguras, desarrollar soluciones full stack y gestionar riesgos de información a nivel organizacional — todo sustentado en disciplina, liderazgo y visión sistémica forjados en entornos de alta exigencia.
 
-Actualmente me encuentro desarrollando proyectos tecnológicos enfocados en:
-
-✔️ Plataformas web modernas
-✔️ Sistemas IPTV y Streaming
-✔️ Aplicaciones Full Stack
-✔️ Soluciones con IA
-✔️ Automatización y análisis de datos
-✔️ Arquitecturas escalables
+```
+📍 Talcahuano, Chile   |   🕐 UTC-3   |   💬 Español (nativo) · Inglés (técnico)
+```
 
 ---
 
-# 🎓 Educación
-
-## 🏛️ Universidad Gabriela Mistral
-
-### Ingeniería en Computational Science
-
-📅 2023 – 2026
-
----
-
-## 🏛️ Universidad de Chile
-
-### Especialista en Oficial de Seguridad de la Información y Ciberseguridad
-
-📅 Nov. 2025 – Dic. 2025
-⭐ Nota: **6.9**
-
-Especialización orientada a:
-
-* Gestión estratégica de riesgos de ciberseguridad
-* Planes integrales de seguridad
-* Mitigación de riesgos
-* Gobierno y gestión de ciberseguridad
-
----
-
-## ⚓ Academia Politécnica Naval
-
-### Técnico Nivel Superior Administración Marítima
-
-📅 2003 – 2023
-
----
-
-# 💼 Especializaciones y Cursos
-
-## 🔐 Ciberseguridad
-
-* Ethical Hacking Essentials — EC-Council
-* Cybersecurity Attack and Defense Fundamentals — EC-Council
-* Cybersecurity Fundamentals — IBM
-* Introduction to Cybersecurity — Cisco
-* Fundamentos de Auditoría de Ciberseguridad — 8dot8Academy
-* Seguridad de la Información — AIEP
-
----
-
-## 💻 Desarrollo Full Stack
-
-* Desarrollo Backend Essentials — Universidad de Chile
-* Desarrollo FrontEnd Essentials — Universidad de Chile
-* Developing Back-End Apps with Node.js and Express — IBM
-* Node.js & MongoDB: Developing Back-end Database Applications — IBM
-* Application Development using Microservices and Serverless — IBM
-* JavaScript Programming Essentials — IBM
-* Programa Oracle Next Education F2 T7 Back-end — Alura Latam
-
----
-
-## 🤖 Inteligencia Artificial
-
-* Especialización IBM Generative AI for Software Developers
-* Generative AI Essentials — IBM
-* Generative AI for UI UX Design — IBM
-* Inmersión DEV AGENTES DE AI — Alura Latam
-
----
-
-## 🎨 UX/UI y Diseño
-
-* Diseño de la experiencia UX — Universidad de Chile
-* Introducción Diseño UI/UX — AIEP
-* Diseño Web y Experiencia de Usuario — AIEP
-* Diseño Web con HTML5 y CSS — AIEP
-
----
-
-## 📊 Data Analytics
-
-* Power BI Essentials — Universidad de Chile
-* Gestión del Cambio en la Organización — Universidad de Chile
-
----
-
-# 🛠️ Tecnologías
+## 🎯 Stack Principal
 
 <div align="center">
 
-## Frontend
+### ⚛️ Frontend
+![React](https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind&theme=dark)
 
-![React](https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind)
+### 🔧 Backend & Datos
+![Backend](https://skillicons.dev/icons?i=nodejs,express,python,java,mongodb&theme=dark)
 
-## Backend
+### ☁️ Cloud & DevOps
+![Cloud](https://skillicons.dev/icons?i=aws,docker,firebase,supabase,vercel&theme=dark)
 
-![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,python,java)
-
-## Cloud & DevOps
-
-![Cloud](https://skillicons.dev/icons?i=aws,docker,firebase,supabase,vercel)
-
-## Cybersecurity & Tools
-
-![Tools](https://skillicons.dev/icons?i=linux,git,github,vscode,bash)
+### 🔐 Seguridad & Herramientas
+![Security](https://skillicons.dev/icons?i=linux,bash,git,github,vscode&theme=dark)
 
 </div>
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=LuchoThno&theme=tokyonight&hide_border=true" />
-</p>
-
----
-# 🏆 Certificaciones Destacadas
-
-| Certificación                         | Institución |
-| ------------------------------------- | ----------- |
-| Ethical Hacking Essentials            | EC-Council  |
-| Cybersecurity Fundamentals            | IBM         |
-| Generative AI for Software Developers | IBM         |
-| Node.js & MongoDB Applications        | IBM         |
-| Introduction to Cybersecurity         | Cisco       |
-| Oracle Next Education Back-end        | Alura Latam |
-
----
-
-# 🌟 Áreas de Interés
-
-* 🔐 Ethical Hacking
-* ☁️ Arquitectura Cloud
-* 🤖 Inteligencia Artificial Generativa
-* 📊 Ciencia de Datos
-* ⚛️ Desarrollo Web Full Stack
-* 🎨 UX/UI Design
-* 📡 Sistemas IPTV & Streaming
-* 🧠 Automatización Inteligente
-
----
-
-# 📫 Contacto
+## 📊 GitHub en Acción
 
 <div align="center">
 
-📧 [email contacto](mailto:luisevargasve@gmail.com)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuchoThno&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuchoThno&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
 
-🌐 Portfolio: [mi repertorio](https://github.com/LuchoThno)
+</div>
 
-💼 LinkedIn: [https://linkedin.com/in/luis-vargas-a43216381](https://www.linkedin.com/in/luis-vargas-a43216381)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=LuchoThno&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff" />
+</div>
+
+---
+
+## 🎓 Formación Académica
+
+| # | Institución | Título / Programa | Año | Destaque |
+|---|-------------|-------------------|-----|----------|
+| 🏛️ | **Universidad Gabriela Mistral** | Ingeniería en Computational Science | 2023–2026 | En curso |
+| 🔐 | **Universidad de Chile** | Especialista en Seguridad de la Información y Ciberseguridad | Nov–Dic 2025 | Nota: **6.9 / 7.0** |
+| ⚓ | **Academia Politécnica Naval** | Técnico Nivel Superior — Administración Marítima | 2003–2023 | 20 años carrera naval |
+
+---
+
+## 🏆 Certificaciones
+
+<div align="center">
+
+| Certificación | Institución | Área |
+|---------------|-------------|------|
+| Ethical Hacking Essentials | **EC-Council** | 🔐 Ciberseguridad |
+| Cybersecurity Attack & Defense | **EC-Council** | 🔐 Ciberseguridad |
+| Cybersecurity Fundamentals | **IBM** | 🔐 Ciberseguridad |
+| Introduction to Cybersecurity | **Cisco** | 🔐 Ciberseguridad |
+| Generative AI for SW Developers | **IBM** | 🤖 IA Generativa |
+| Generative AI Essentials | **IBM** | 🤖 IA Generativa |
+| Node.js & MongoDB Applications | **IBM** | 🔧 Backend |
+| Developing Back-End Apps (Node/Express) | **IBM** | 🔧 Backend |
+| Microservices & Serverless | **IBM** | ☁️ Cloud |
+| Oracle Next Education — Back-end F2T7 | **Alura Latam** | 🔧 Backend |
+| Desarrollo Frontend Essentials | **U. de Chile** | ⚛️ Frontend |
+| Desarrollo Backend Essentials | **U. de Chile** | 🔧 Backend |
+| Power BI Essentials | **U. de Chile** | 📊 Analytics |
+| UX Experience Design | **U. de Chile** | 🎨 UX/UI |
+| Inmersión AI Agents | **Alura Latam** | 🤖 IA |
 
 </div>
 
 ---
 
+## 🚀 Áreas de Especialización
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 Ciberseguridad
+- Ethical Hacking & Pen Testing
+- Gestión de riesgos de seguridad
+- Gobierno y auditoría de ciberseguridad
+- Planes integrales de seguridad (ISO 27001)
+- Análisis de vulnerabilidades
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 IA & Automatización
+- Desarrollo con LLMs (Generative AI)
+- Agentes de IA y flujos automatizados
+- Integración de APIs de IA en productos
+- Análisis de datos con Power BI
+- Pipelines de datos inteligentes
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚛️ Desarrollo Full Stack
+- React / Next.js / TypeScript
+- Node.js / Express / MongoDB
+- REST APIs & Microservicios
+- Arquitecturas serverless
+- Patrones escalables
+
+</td>
+<td width="50%" valign="top">
+
+### ☁️ Cloud & DevOps
+- AWS (EC2, S3, Lambda)
+- Docker & contenedores
+- Firebase / Supabase / Vercel
+- CI/CD pipelines
+- Sistemas IPTV & Streaming
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💡 Proyectos en Desarrollo
+
+> 🔨 Repositorios activos — en construcción y actualización constante
+
+- **🛡️ CyberDash** — Dashboard de monitoreo de seguridad con alertas en tiempo real
+- **🤖 AI Assistant Platform** — Plataforma con agentes de IA para automatización de tareas
+- **📡 StreamCore** — Arquitectura escalable para sistemas IPTV / streaming
+- **📊 DataViz BI** — Suite de visualización de datos con Power BI integrado
+- **🔐 SecAudit Tool** — Herramienta de auditoría y análisis de vulnerabilidades
+
+---
+
+## 📈 Actividad de Contribuciones
+
 <div align="center">
-
-### ⚡ "La tecnología no solo construye sistemas, construye oportunidades." ⚡
-
-![Footer](https://capsule-render.vercel.app/api?type=waving\&color=0:1e3a8a,100:0f172a\&height=120\&section=footer)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuchoThno&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=79c0ff&point=ff7b72" />
 </div>
 
+---
+
+## 🌐 Conecta Conmigo
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-luis--vargas--a43216381-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-vargas-a43216381)
+[![GitHub](https://img.shields.io/badge/GitHub-LuchoThno-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuchoThno)
+[![Email](https://img.shields.io/badge/Email-luisevargasve%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisevargasve@gmail.com)
+
+<br/>
+
+> *"La ciberseguridad no es un producto, es un proceso — y la mejor defensa es un atacante que piensa como defensor."*
+
+<br/>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f4c81,50:1a3a6e,100:0f172a&height=140&section=footer)
+
+</div>
