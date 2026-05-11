@@ -58,8 +58,8 @@ Mi valor diferenciador: un perfil **técnico-estratégico** capaz de diseñar ar
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuchoThno&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuchoThno&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuchoThno&theme=tokyonight"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LuchoThno&theme=tokyonight"/>
 
 </div>
 
@@ -68,7 +68,7 @@ Mi valor diferenciador: un perfil **técnico-estratégico** capaz de diseñar ar
 </div>
 
 ---
-
+<div align="center">
 ## 🎓 Formación Académica
 
 | # | Institución | Título / Programa | Año | Destaque |
@@ -77,6 +77,7 @@ Mi valor diferenciador: un perfil **técnico-estratégico** capaz de diseñar ar
 | 🔐 | **Universidad de Chile** | Especialista en Seguridad de la Información y Ciberseguridad | Nov–Dic 2025 | Nota: **6.9 / 7.0** |
 | ⚓ | **Academia Politécnica Naval** | Técnico Nivel Superior — Administración Marítima | 2003–2023 | 20 años carrera naval |
 
+</div>
 ---
 
 ## 🏆 Certificaciones
@@ -106,7 +107,7 @@ Mi valor diferenciador: un perfil **técnico-estratégico** capaz de diseñar ar
 ---
 
 ## 🚀 Áreas de Especialización
-
+<div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -153,7 +154,7 @@ Mi valor diferenciador: un perfil **técnico-estratégico** capaz de diseñar ar
 </td>
 </tr>
 </table>
-
+</div>
 ---
 
 ## 💡 Proyectos en Desarrollo
@@ -165,14 +166,6 @@ Mi valor diferenciador: un perfil **técnico-estratégico** capaz de diseñar ar
 - **📡 StreamCore** — Arquitectura escalable para sistemas IPTV / streaming
 - **📊 DataViz BI** — Suite de visualización de datos con Power BI integrado
 - **🔐 SecAudit Tool** — Herramienta de auditoría y análisis de vulnerabilidades
-
----
-
-## 📈 Actividad de Contribuciones
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuchoThno&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=79c0ff&point=ff7b72" />
-</div>
 
 ---
 
